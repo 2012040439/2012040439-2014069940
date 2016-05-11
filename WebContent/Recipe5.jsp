@@ -39,22 +39,19 @@
 				</ul>
 			</div>
 			<p>
-			<center><b>Pasta Puttanesca and Tuna</b></center>
-			<br><img src = "recipe list/Mediterranean/Pasta Puttanesca and Tuna/ppt.jpg" align = right height = 150 width = 150>
+			<center><br><br><b>Chocolate-Covered Matzo</b><br><br></center>
+			<p>
+				<br><img src = "recipe list/Dessert/Sandwich/S.jpg" align = right height = 150 width = 150>
 				<b><br><br>Ingredients:<br></b>
-				1 lb. cellentani or other pasta<br>
-				1 jar puttanesca pasta sauce or Del Monte<br>
-				Italian Style Spaghetti Sauce<br>
-				1 can light tuna in oil<br><br>
+				Cheese:<br>
+				Mayonnaise:<br>
+				Bread:<br><br>
 				
 				<b>Method:<br></b>
-				1) Cook pasta in a large pot of lightly salted water as package directs.<br>
-				2) Drain pasta in colander. Add pasta sauce and tuna to pasta pot. Bring 
-				to a simmer, breaking up tuna with a wooden spoon. Remove from heat.<br>
-				3) Add pasta to pot; toss to mix and coat. Transfer to a serving bowl 
-				and garnish with chopped parsley if desired.<br>
-				4) Add some crushed red pepper flakes; Use canned clams instead of tuna; 
-				Stir in some chopped fresh basil just before serving.
+				1) Toast bread for 2 minutes (optional)<br>
+				2) Apply Mayonnaise <br>
+				3) Place cheese between the two bread loaves and enjoy!
+			</p>
 	<div class="footer">
 		<div>
 			<p>
