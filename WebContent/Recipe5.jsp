@@ -25,7 +25,7 @@
 						<a href="index.html">Home</a>
 					</li>
 					<li>
-						<a href="recipes.html">A to Z Recipes</a>
+						<a href="recipelist.html">Recipes</a>
 					</li>
 
 					<li>
@@ -39,7 +39,7 @@
 				</ul>
 			</div>
 			<p>
-			<center><br><br><b>Chocolate-Covered Matzo</b><br><br></center>
+			<center><br><br><b>Simple Sandwich</b><br><br></center>
 			<p>
 				<br><img src = "recipe list/Dessert/Sandwich/S.jpg" align = right height = 150 width = 150>
 				<b><br><br>Ingredients:<br></b>

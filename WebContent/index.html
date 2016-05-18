@@ -25,7 +25,7 @@
 						<a href="index.html">Home</a>
 					</li>
 					<li>
-						<a href="recipes.html">A to Z Recipes</a>
+						<a href="recipelist.html">Recipes</a>
 					</li>
 
 					<li>
