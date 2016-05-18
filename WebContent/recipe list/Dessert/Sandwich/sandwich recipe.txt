@@ -1,0 +1,10 @@
+Sandwich Recipe:
+Cheese - 65.25 
+Mayonnaise - 28.50
+Bread - 61.50
+
+How to do it:
+
+1) Toast bread for 2 minutes (optional)
+2) Apply Mayonnaise 
+3) Place cheese between the two bread loaves and enjoy!
