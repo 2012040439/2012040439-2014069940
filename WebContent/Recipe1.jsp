@@ -27,6 +27,10 @@
 					<li>
 						<a href="recipelist.html">Recipes</a>
 					</li>
+					<li>
+						<a href="prices.html">Prices</a>
+					</li>
+
 
 					<li>
 						<a href="calc.html">Cost Calculator</a>
